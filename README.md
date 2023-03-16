@@ -10,5 +10,21 @@ pinned: false
 license: apache-2.0
 ---
 
-ssh-add ~/.ssh/id_rsa_gitbash
-git remote add space https://huggingface.co/spaces/charsan/clim.4x
+https://pypi.org/project/netCDF4/
+
+Data Sources:
+
+NCAR
+https://rda.ucar.edu/thredds/catalog/catalog.html
+
+NOAA
+https://www.ncei.noaa.gov/thredds/catalog.html
+
+NASA
+https://data.giss.nasa.gov/gistemp/
+
+Gistemp also available on opendap
+gistemp/combined/250km/
+           air.2x2.250.mon.1991-2020.ltm.comb.nc
+           air.2x2.250.mon.anom.comb.nc
+
